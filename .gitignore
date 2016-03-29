@@ -1,3 +1,7 @@
+# Exclude data files
+domains.txt
+domains_raw.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
