@@ -5,8 +5,8 @@
 ![WordPress versions chart](wordpress_versions.png)
 
 ### Requirements
-Python 2.7 installed
-Scrapy (for collecting data)
+Python 2.7 installed  
+Scrapy (for collecting data)  
 Jupyter Notebook (for data processing and visualization)
 
 ### Collect data
