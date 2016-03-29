@@ -19,5 +19,8 @@ curl -o domains_raw.txt https://www.sk-nic.sk/documents/domeny.txt
 # Extract domain names
 tail -n+12 domains_raw.txt | awk -F  ";" '/1/ {print $1}' > domains.txt
 
+# Store total domains count
+wc -l <domains.txt >notebook/domains_count.txt
+
 # Get WordPress versions
 scrapy crawl wordpress_versions -o notebook/versions.csv
