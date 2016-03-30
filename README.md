@@ -1,6 +1,6 @@
 #Wordpress versions used on Slovak domains
 
-**301 548** Slovak domains scanned, WordPress was detected on **24 215** domains which is about **8%** of all scanned domains.
+Total domains scanned **301 141**. WordPress detected on **48 565 (16%)** domains. WordPress domains updated to latest version **16 873 (34%)**.
 
 ![WordPress versions chart](wordpress_versions.png)
 
