@@ -9,8 +9,8 @@ if test -e "domains.txt";then
  rm domains.txt
 fi
 
-if test -e "versions.csv";then
- rm versions.csv
+if test -e "notebook/versions.csv";then
+ rm notebook/versions.csv
 fi
 
 # Download domain list
